@@ -8,8 +8,6 @@ Enjoy.
 **Note:**
 The links are collected by this chrome extension created by [Idnan](https://github.com/Idnan) | [github.com/Idnan/like-on-git](https://github.com/Idnan/like-on-git)
 
-[TOC]
-
 - - -
 
 ### April 20, 2017
