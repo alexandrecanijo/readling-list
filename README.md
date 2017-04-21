@@ -24,3 +24,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Cracking the front-end interview – freeCodeCamp](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237) 
 - [Medium’s CSS is actually pretty f***ing good. – Medium](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) 
 - [WAVE Web Accessibility Tool](http://wave.webaim.org/) 
+- [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/) 
