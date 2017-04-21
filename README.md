@@ -21,3 +21,4 @@ Simple Blog is a multi-part series about developing data-driven application with
 - [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/) 
 - [Pants: A fast, scalable build system](http://pantsbuild.github.io/) 
 - [https://jenkins.io](https://jenkins.io/) 
+- [alexandrecanijo / home — Bitbucket](https://bitbucket.org/) 
