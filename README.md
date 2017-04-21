@@ -21,3 +21,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Pants: A fast, scalable build system](http://pantsbuild.github.io/)
 - [Bitbucket | The Git solution for professional teams](https://bitbucket.org/)
 - [Jenkins - Build great things at any scale](https://jenkins.io/)
+- [Cracking the front-end interview – freeCodeCamp](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237) 
