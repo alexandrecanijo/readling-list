@@ -29,3 +29,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 
 ### April 22, 2017
 - [Dribbble - Show and tell for designers](https://dribbble.com/) 
+
+### May 4, 2017
+- [Adaptive vs. Responsive Design | Interaction Design Foundation](https://www.interaction-design.org/literature/article/adaptive-vs-responsive-design) 
