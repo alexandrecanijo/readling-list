@@ -32,3 +32,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 
 ### May 4, 2017
 - [Adaptive vs. Responsive Design | Interaction Design Foundation](https://www.interaction-design.org/literature/article/adaptive-vs-responsive-design) 
+
+### May 13, 2017
+- [How To Be More Productive by Working Less](https://markmanson.net/how-to-be-more-productive) 
