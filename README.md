@@ -35,3 +35,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 
 ### May 13, 2017
 - [How To Be More Productive by Working Less](https://markmanson.net/how-to-be-more-productive) 
+
+### June 4, 2017
+- [Create a Responsive Web Design with Media Queries](https://line25.com/tutorials/create-a-responsive-web-design-with-media-queries) 
