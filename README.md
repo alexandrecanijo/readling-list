@@ -38,3 +38,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 
 ### June 4, 2017
 - [Create a Responsive Web Design with Media Queries](https://line25.com/tutorials/create-a-responsive-web-design-with-media-queries) 
+- [Create a Typography Based Blog Layout in HTML5](https://line25.com/tutorials/create-a-typography-based-blog-layout-in-html5) 
