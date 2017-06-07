@@ -43,3 +43,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 
 ### June 8, 2017
 - [Taking Advantage of PHP's Built-in Server — SitePoint](https://www.sitepoint.com/taking-advantage-of-phps-built-in-server/) 
+- [How to Use PHP's built-in Web Server (current)](http://symfony.com/doc/current/setup/built_in_web_server.html) 
