@@ -53,3 +53,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Building a Directory with the Twitter API | CSS-Tricks](https://css-tricks.com/building-directory-twitter-api/) 
 - [Women Who Design](https://womenwho.design/) 
 - [Css and Scalability](http://mrmrs.github.io/writing/2016/03/24/scalable-css/) 
+- [OSS by @mrmrs](http://mrmrs.github.io/) 
