@@ -48,3 +48,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Homepage - Silex - The PHP micro-framework based on the Symfony Components](https://silex.sensiolabs.org/) 
 - [Web design and development articles and tutorials for advent ◆ 24 ways](https://24ways.org/) 
 - [A day without Javascript](https://sonniesedge.co.uk/blog/a-day-without-javascript) 
+
+### June 12, 2017
+- [Building a Directory with the Twitter API | CSS-Tricks](https://css-tricks.com/building-directory-twitter-api/) 
