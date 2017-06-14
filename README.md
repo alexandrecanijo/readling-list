@@ -61,3 +61,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 
 ### June 14, 2017
 - [Hype Driven Development – DaftCode Blog](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22) 
+- [grab/front-end-guide: 📚 Study guide and introduction to the modern front end stack.](https://github.com/grab/front-end-guide) 
