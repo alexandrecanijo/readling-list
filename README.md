@@ -63,3 +63,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Hype Driven Development – DaftCode Blog](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22) 
 - [grab/front-end-guide: 📚 Study guide and introduction to the modern front end stack.](https://github.com/grab/front-end-guide) 
 - [Token Network Effects – freeCodeCamp](https://medium.freecodecamp.com/token-network-effects-a-new-business-model-for-a-decentralized-web-6cde8b4e862) 
+
+### June 20, 2017
+- [Pinterest Engineering – Medium](https://medium.com/@Pinterest_Engineering) 
