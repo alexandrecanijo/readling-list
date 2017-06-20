@@ -83,3 +83,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Primer CSS Styleguide — Jon Rohan – Jon Rohan – Medium](https://medium.com/@jonrohan/primer-css-styleguide-jon-rohan-33b26e96877f) 
 - [Welcome to the MailChimp Content Style Guide | MailChimp Content Style Guide](http://styleguide.mailchimp.com/) 
 - [CSS Architectures for UI developers | SmartArt Blog](http://blog.smartart.it/2016/11/24/css-architectures-ui-developers) 
+- [The Lightning Design System — the Next Generation of Living Style Guides](https://medium.com/salesforce-ux/the-lightning-design-system-is-the-next-generation-of-living-style-guides-9addc769c317) 
