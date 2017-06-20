@@ -85,3 +85,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [CSS Architectures for UI developers | SmartArt Blog](http://blog.smartart.it/2016/11/24/css-architectures-ui-developers) 
 - [The Lightning Design System — the Next Generation of Living Style Guides](https://medium.com/salesforce-ux/the-lightning-design-system-is-the-next-generation-of-living-style-guides-9addc769c317) 
 - [Code Patterns & Style Guides – OddBird – Medium](https://medium.com/oddbird-web/code-patterns-style-guides-360a709d3b7f) 
+- [How and why we created the Marvel Styleguide – Prototyping: From UX to Front End](https://blog.prototypr.io/the-marvel-styleguide-79b9757add23) 
