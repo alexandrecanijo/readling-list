@@ -70,3 +70,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Pinterest and the visual web 🖼 – Ryan Hoover – Medium](https://medium.com/@rrhoover/pinterest-and-the-visual-web-9cb88cdf4f9) 
 - [Engineering](https://blog.twitter.com/engineering/en_us.html) 
 - [Netflix Technology Blog – Medium](https://medium.com/@NetflixTechBlog) 
+- [Rearchitecting Airbnb’s Frontend – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2) 
