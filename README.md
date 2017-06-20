@@ -71,3 +71,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Engineering](https://blog.twitter.com/engineering/en_us.html) 
 - [Netflix Technology Blog – Medium](https://medium.com/@NetflixTechBlog) 
 - [Rearchitecting Airbnb’s Frontend – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2) 
+- [Leland Richardson - React Native in the "Brown Field" - React Conf 2017 - YouTube](https://www.youtube.com/watch?v=tWitQoPgs8w) 
