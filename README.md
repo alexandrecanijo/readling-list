@@ -100,3 +100,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Vue.js Component Style Guide – tldr tech – Medium](https://medium.com/tldr-tech/vue-js-component-style-guide-711988d5e94e) 
 - [pablohpsilva/vuejs-component-style-guide: Vue.js Component Style Guide](https://github.com/pablohpsilva/vuejs-component-style-guide) 
 - [The Harvest. Notes on Maintaining a Living Style Guide.](https://medium.com/teemforwork/the-harvest-notes-on-maintaining-a-living-style-guide-dc7694267f2a) 
+- [When is it time for a style guide? – Cody Stewart – Medium](https://medium.com/@codyjackstewart/when-is-it-time-for-a-style-guide-317f21d78846) 
