@@ -92,3 +92,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [CSS Styleguide by skcript](http://skcript.github.io/styleguide-css/) 
 - [styleguides/css at master · citrusbyte/styleguides](https://github.com/citrusbyte/styleguides/tree/master/css) 
 - [styleguides/html at master · citrusbyte/styleguides](https://github.com/citrusbyte/styleguides/tree/master/html) 
+- [styleguides/javascript at master · citrusbyte/styleguides](https://github.com/citrusbyte/styleguides/tree/master/javascript) 
