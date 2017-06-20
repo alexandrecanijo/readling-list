@@ -66,3 +66,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 
 ### June 20, 2017
 - [Pinterest Engineering – Medium](https://medium.com/@Pinterest_Engineering) 
+- [Redesigning Pinterest, block by block – Andreas Pihlström – Medium](https://medium.com/@suprb/redesigning-pinterest-block-by-block-6040a00d80a3) 
