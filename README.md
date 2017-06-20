@@ -112,3 +112,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Decoupling — All the best bits of your favourite PHP frameworks.](https://theiconic.engineering/decoupling-all-the-best-bits-of-your-favourite-php-frameworks-f8ac2742a7d7) 
 - [The League of Extraordinary Packages](https://thephpleague.com/) 
 - [PHP: The Right Way](http://www.phptherightway.com/) 
+- [codeguy/php-the-right-way: An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web](https://github.com/codeguy/php-the-right-way/tree/gh-pages) 
