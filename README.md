@@ -119,3 +119,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [API Testing and Collaboration with Postman – THE ICONIC Engineering](https://theiconic.engineering/api-testing-and-collaboration-with-postman-730790488915) 
 - [Setting up GrumPHP with Laravel – Steve Azzopardi – Medium](https://medium.com/@steveazz/setting-up-grumphp-with-laravel-202f158e9862) 
 - [Review of PHP Static Analysis Tools – Codacy](https://blog.codacy.com/review-of-php-static-analysis-tools-e022baf10cc5) 
+- [Code Style at Compufácil – Compufácil BlogTech](https://techblog.compufacil.com.br/code-style-on-compuf%C3%A1cil-a0958ecbe112) 
