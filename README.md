@@ -110,3 +110,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Make Unit Testing Great Again – THE ICONIC Engineering](https://theiconic.engineering/make-unit-testing-great-again-68b6490b5406) 
 - [Two simple ways to optimise Redis access in a PHP front-end application](https://theiconic.engineering/two-simple-ways-to-optimise-redis-access-in-a-php-front-end-application-d3d25c9b1333) 
 - [Decoupling — All the best bits of your favourite PHP frameworks.](https://theiconic.engineering/decoupling-all-the-best-bits-of-your-favourite-php-frameworks-f8ac2742a7d7) 
+- [The League of Extraordinary Packages](https://thephpleague.com/) 
