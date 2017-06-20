@@ -77,3 +77,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3) 
 - [Breathing air into AirBnB’s JavaScript Style Guide – freeCodeCamp](https://medium.freecodecamp.com/adding-some-air-to-the-airbnb-style-guide-3df40e31c57a) 
 - [Airbnb Design – Medium](https://medium.com/airbnb-design) 
+- [Guia de Estilo JusBrasil – JusBrasil Tech – Medium](https://medium.com/jusbrasil-tech/guia-de-estilo-jusbrasil-964a511b396a) 
