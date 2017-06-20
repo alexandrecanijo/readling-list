@@ -82,3 +82,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Code Guide by @mdo](http://codeguide.co/) 
 - [Primer CSS Styleguide — Jon Rohan – Jon Rohan – Medium](https://medium.com/@jonrohan/primer-css-styleguide-jon-rohan-33b26e96877f) 
 - [Welcome to the MailChimp Content Style Guide | MailChimp Content Style Guide](http://styleguide.mailchimp.com/) 
+- [CSS Architectures for UI developers | SmartArt Blog](http://blog.smartart.it/2016/11/24/css-architectures-ui-developers) 
