@@ -97,3 +97,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Codigu CSS / Sass Styleguide – Codigu – Medium](https://medium.com/@codiguco/codigu-css-sass-styleguide-c7229429d8bf) 
 - [7 reasons you should be hiring more junior developers](https://medium.com/fed-or-dead/7-reasons-you-should-be-hiring-more-junior-developers-49f8d4a32fd0) 
 - [Udacity Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html) 
+- [Vue.js Component Style Guide – tldr tech – Medium](https://medium.com/tldr-tech/vue-js-component-style-guide-711988d5e94e) 
