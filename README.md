@@ -74,3 +74,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Leland Richardson - React Native in the "Brown Field" - React Conf 2017 - YouTube](https://www.youtube.com/watch?v=tWitQoPgs8w) 
 - [GraphQL | A query language for your API](http://graphql.org/) 
 - [Progressive Web Apps  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/) 
+- [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3) 
