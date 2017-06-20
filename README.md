@@ -115,3 +115,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [codeguy/php-the-right-way: An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web](https://github.com/codeguy/php-the-right-way/tree/gh-pages) 
 - [PHP-FIG — PHP Framework Interop Group](http://www.php-fig.org/) 
 - [Aura for PHP](http://auraphp.com/) 
+- [phly, boy, phly :: PSR-7 By Example](https://mwop.net/blog/2015-01-26-psr-7-by-example.html) 
