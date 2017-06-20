@@ -105,3 +105,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [An alternate web design style guide – Hacker Noon](https://hackernoon.com/an-alternate-web-design-style-guide-1aae8d0b5df5) 
 - [phpro/grumphp: A PHP code-quality tool](https://github.com/phpro/grumphp) 
 - [DeSymfony 2016 – Building the Wine Marketplace](https://uvinum.engineering/desymfony-2016-8f01341d36e0) 
+- [Meet Watchdog; Hotels.ng’s in-house open source application monitor](https://medium.com/hngtech/how-we-created-watchdog-hotels-ngs-in-house-application-monitor-184a20204656) 
