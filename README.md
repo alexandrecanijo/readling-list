@@ -95,3 +95,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [styleguides/javascript at master · citrusbyte/styleguides](https://github.com/citrusbyte/styleguides/tree/master/javascript) 
 - [Introducing Silva.Earth – Ferdy Christant](https://ferdychristant.com/introducing-silva-earth-8787fc404ae6) 
 - [Codigu CSS / Sass Styleguide – Codigu – Medium](https://medium.com/@codiguco/codigu-css-sass-styleguide-c7229429d8bf) 
+- [7 reasons you should be hiring more junior developers](https://medium.com/fed-or-dead/7-reasons-you-should-be-hiring-more-junior-developers-49f8d4a32fd0) 
