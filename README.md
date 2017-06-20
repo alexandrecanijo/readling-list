@@ -116,3 +116,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [PHP-FIG — PHP Framework Interop Group](http://www.php-fig.org/) 
 - [Aura for PHP](http://auraphp.com/) 
 - [phly, boy, phly :: PSR-7 By Example](https://mwop.net/blog/2015-01-26-psr-7-by-example.html) 
+- [API Testing and Collaboration with Postman – THE ICONIC Engineering](https://theiconic.engineering/api-testing-and-collaboration-with-postman-730790488915) 
