@@ -101,3 +101,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [pablohpsilva/vuejs-component-style-guide: Vue.js Component Style Guide](https://github.com/pablohpsilva/vuejs-component-style-guide) 
 - [The Harvest. Notes on Maintaining a Living Style Guide.](https://medium.com/teemforwork/the-harvest-notes-on-maintaining-a-living-style-guide-dc7694267f2a) 
 - [When is it time for a style guide? – Cody Stewart – Medium](https://medium.com/@codyjackstewart/when-is-it-time-for-a-style-guide-317f21d78846) 
+- [Front End Web Development Style Guide – Syn – Medium](https://medium.com/@synzhang/front-end-web-development-style-guide-a6bdff80ed7b) 
