@@ -87,3 +87,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Code Patterns & Style Guides – OddBird – Medium](https://medium.com/oddbird-web/code-patterns-style-guides-360a709d3b7f) 
 - [How and why we created the Marvel Styleguide – Prototyping: From UX to Front End](https://blog.prototypr.io/the-marvel-styleguide-79b9757add23) 
 - [How to construct a design system – freeCodeCamp](https://medium.freecodecamp.com/how-to-construct-a-design-system-864adbf2a117) 
+- [Angular — Advanced Styling Guide (v4+) – Google Developers Experts – Medium](https://medium.com/google-developer-experts/angular-advanced-styling-guide-v4-f0765616e635) 
