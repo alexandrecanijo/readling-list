@@ -80,3 +80,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Guia de Estilo JusBrasil – JusBrasil Tech – Medium](https://medium.com/jusbrasil-tech/guia-de-estilo-jusbrasil-964a511b396a) 
 - [CSS Guidelines (2.2.5) – High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/#the-importance-of-a-styleguide) 
 - [Code Guide by @mdo](http://codeguide.co/) 
+- [Primer CSS Styleguide — Jon Rohan – Jon Rohan – Medium](https://medium.com/@jonrohan/primer-css-styleguide-jon-rohan-33b26e96877f) 
