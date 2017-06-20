@@ -104,3 +104,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Front End Web Development Style Guide – Syn – Medium](https://medium.com/@synzhang/front-end-web-development-style-guide-a6bdff80ed7b) 
 - [An alternate web design style guide – Hacker Noon](https://hackernoon.com/an-alternate-web-design-style-guide-1aae8d0b5df5) 
 - [phpro/grumphp: A PHP code-quality tool](https://github.com/phpro/grumphp) 
+- [DeSymfony 2016 – Building the Wine Marketplace](https://uvinum.engineering/desymfony-2016-8f01341d36e0) 
