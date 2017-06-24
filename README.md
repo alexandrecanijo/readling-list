@@ -120,3 +120,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Setting up GrumPHP with Laravel – Steve Azzopardi – Medium](https://medium.com/@steveazz/setting-up-grumphp-with-laravel-202f158e9862) 
 - [Review of PHP Static Analysis Tools – Codacy](https://blog.codacy.com/review-of-php-static-analysis-tools-e022baf10cc5) 
 - [Code Style at Compufácil – Compufácil BlogTech](https://techblog.compufacil.com.br/code-style-on-compuf%C3%A1cil-a0958ecbe112) 
+
+### June 24, 2017
+- [Symfony 4: Estrutura de Diretório – Andréia Bohner – Medium](https://medium.com/@andreiabohner/symfony-4-estrutura-de-diret%C3%B3rio-4446a7a3b3a5) 
