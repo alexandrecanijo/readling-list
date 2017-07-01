@@ -124,3 +124,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 ### June 24, 2017
 - [Symfony 4: Estrutura de Diretório – Andréia Bohner – Medium](https://medium.com/@andreiabohner/symfony-4-estrutura-de-diret%C3%B3rio-4446a7a3b3a5) 
 - [From Procedural to Object Oriented PHP](https://code.tutsplus.com/tutorials/from-procedural-to-object-oriented-php--net-32853) 
+
+### July 1, 2017
+- [Web Starter Kit  |  Web  |  Google Developers](https://developers.google.com/web/tools/starter-kit/) 
