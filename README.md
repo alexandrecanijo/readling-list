@@ -152,3 +152,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Marko? Marko! #1: MarkoJS – Dylan Avery – Medium](https://medium.com/@dylanavery720/marko-marko-1-markojs-bcd6528af2f9) 
 - [Inferno (infernojs) - Libraries.io](https://libraries.io/github/infernojs) 
 - [Open Source Software Testing | Sauce Labs](https://saucelabs.com/open-source) 
+- [How to get published in the freeCodeCamp Medium publication](https://medium.freecodecamp.org/how-to-get-published-in-the-freecodecamp-medium-publication-9b342a22400e) 
