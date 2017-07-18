@@ -145,3 +145,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Introduction - Mithril.js](https://mithril.js.org/) 
 - [Stefan_Krause.blog() – { throw new NoFunnyProverbFoundException(); }](http://www.stefankrause.net/wp/) 
 - [Intro to InfernoJS & Creating a Redux/Elm-Like Architecture w/ Inferno & Most.js - Suncoast.js (Saint Petersburg, FL) | Meetup](https://www.meetup.com/suncoast-js/events/237730045/) 
+- [Create Your Own XML/JSON/HTML API with PHP - DZone Web Dev](https://dzone.com/articles/create-your-own-xmljsonhtml?fromrel=true) 
