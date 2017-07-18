@@ -159,3 +159,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Unsplash It](https://unsplash.it/) 
 - [Random User Generator | Home](https://randomuser.me/) 
 - [Graph API in a Large Scale Environment – MyHeritage Engineering – Medium](https://medium.com/myheritage-engineering/graph-api-in-a-large-scale-environment-f5e1a228dd8a) 
+- [From Kafka to BigQuery: A Guide for Streaming Billions of Daily Events](https://medium.com/myheritage-engineering/kafka-to-bigquery-load-a-guide-for-streaming-billions-of-daily-events-cbbf31f4b737) 
