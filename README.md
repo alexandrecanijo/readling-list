@@ -143,3 +143,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Svelte • The magical disappearing UI framework](https://svelte.technology/) 
 - [eBay skin](https://ebay.github.io/skin/#) 
 - [Introduction - Mithril.js](https://mithril.js.org/) 
+- [Stefan_Krause.blog() – { throw new NoFunnyProverbFoundException(); }](http://www.stefankrause.net/wp/) 
