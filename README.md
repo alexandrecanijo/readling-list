@@ -147,3 +147,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Intro to InfernoJS & Creating a Redux/Elm-Like Architecture w/ Inferno & Most.js - Suncoast.js (Saint Petersburg, FL) | Meetup](https://www.meetup.com/suncoast-js/events/237730045/) 
 - [Create Your Own XML/JSON/HTML API with PHP - DZone Web Dev](https://dzone.com/articles/create-your-own-xmljsonhtml?fromrel=true) 
 - [How to Make a Chrome Extension in 5 Minutes - DZone Web Dev](https://dzone.com/articles/how-to-make-a-chrome-extension-in-5-minutes-awesom?fromrel=true) 
+- [Marko? Marko! #3: Electron, Webpack – Dylan Avery – Medium](https://medium.com/@dylanavery720/marko-marko-3-electron-webpack-84e3edbe90cc) 
