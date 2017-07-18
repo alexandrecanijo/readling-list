@@ -172,3 +172,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 ### July 19, 2017
 - [Apollo Server 1.0 — A GraphQL Server for all Node.js frameworks](https://dev-blog.apollodata.com/apollo-server-1-0-a-graphql-server-for-all-node-js-frameworks-2b37d3342f7c) 
 - [Installing | Apollo Tools Guide](http://dev.apollodata.com/tools/graphql-server/index.html) 
+- [Vector](http://vectoross.io/) 
