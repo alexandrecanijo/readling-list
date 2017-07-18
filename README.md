@@ -164,3 +164,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [InfernoJS meets Apollo in a functional way [part 1]](https://medium.com/@roman_zanettin/infernojs-meets-apollo-in-a-functional-way-15f1bebea34e) 
 - [InfernoJS meets Apollo in a functional way [part 2]](https://medium.com/@roman_zanettin/infernojs-meets-apollo-in-a-functional-way-part-2-ba4b6c82a922) 
 - [gajus/usus: Webpage pre-rendering service. ⚡️](https://github.com/gajus/usus) 
+- [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b) 
