@@ -144,3 +144,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [eBay skin](https://ebay.github.io/skin/#) 
 - [Introduction - Mithril.js](https://mithril.js.org/) 
 - [Stefan_Krause.blog() – { throw new NoFunnyProverbFoundException(); }](http://www.stefankrause.net/wp/) 
+- [Intro to InfernoJS & Creating a Redux/Elm-Like Architecture w/ Inferno & Most.js - Suncoast.js (Saint Petersburg, FL) | Meetup](https://www.meetup.com/suncoast-js/events/237730045/) 
