@@ -140,3 +140,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Marko](http://markojs.com/) 
 - [Brunch - ultra-fast HTML5 build tool](http://brunch.io/) 
 - [Inferno](https://infernojs.org/docs/guides/brunch) 
+- [Svelte • The magical disappearing UI framework](https://svelte.technology/) 
