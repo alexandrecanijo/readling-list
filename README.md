@@ -139,3 +139,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Making a Single Page App Without a Framework - Tutorialzine](https://tutorialzine.com/2015/02/single-page-app-without-a-framework) 
 - [Marko](http://markojs.com/) 
 - [Brunch - ultra-fast HTML5 build tool](http://brunch.io/) 
+- [Inferno](https://infernojs.org/docs/guides/brunch) 
