@@ -168,3 +168,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [https://reasonml.github.io](https://reasonml.github.io/) 
 - [Flow: A Static Type Checker for JavaScript](https://flow.org/) 
 - [GatsbyJS](https://www.gatsbyjs.org/) 
+
+### July 19, 2017
+- [Apollo Server 1.0 — A GraphQL Server for all Node.js frameworks](https://dev-blog.apollodata.com/apollo-server-1-0-a-graphql-server-for-all-node-js-frameworks-2b37d3342f7c) 
