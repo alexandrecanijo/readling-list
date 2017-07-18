@@ -127,3 +127,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 
 ### July 1, 2017
 - [Web Starter Kit  |  Web  |  Google Developers](https://developers.google.com/web/tools/starter-kit/) 
+
+### July 18, 2017
+- [React on the Server for Beginners: Build a Universal React and Node App ― Scotch](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app) 
