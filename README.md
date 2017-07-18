@@ -138,3 +138,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Integrating React.js Into a PHP Application](https://pt.slideshare.net/andrewrota/integrating-reactjs-into-a-php-application) 
 - [Making a Single Page App Without a Framework - Tutorialzine](https://tutorialzine.com/2015/02/single-page-app-without-a-framework) 
 - [Marko](http://markojs.com/) 
+- [Brunch - ultra-fast HTML5 build tool](http://brunch.io/) 
