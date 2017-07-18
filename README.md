@@ -148,3 +148,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Create Your Own XML/JSON/HTML API with PHP - DZone Web Dev](https://dzone.com/articles/create-your-own-xmljsonhtml?fromrel=true) 
 - [How to Make a Chrome Extension in 5 Minutes - DZone Web Dev](https://dzone.com/articles/how-to-make-a-chrome-extension-in-5-minutes-awesom?fromrel=true) 
 - [Marko? Marko! #3: Electron, Webpack – Dylan Avery – Medium](https://medium.com/@dylanavery720/marko-marko-3-electron-webpack-84e3edbe90cc) 
+- [Marko? Marko! #2: Components, Electron – Dylan Avery – Medium](https://medium.com/@dylanavery720/marko-marko-2-components-electron-32b4294fe045) 
