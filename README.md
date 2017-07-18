@@ -163,3 +163,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Learn About Inferno JS: Build and Authenticate an App](https://medium.com/@auth0/learn-about-inferno-js-build-and-authenticate-an-app-f0d4dddfa294) 
 - [InfernoJS meets Apollo in a functional way [part 1]](https://medium.com/@roman_zanettin/infernojs-meets-apollo-in-a-functional-way-15f1bebea34e) 
 - [InfernoJS meets Apollo in a functional way [part 2]](https://medium.com/@roman_zanettin/infernojs-meets-apollo-in-a-functional-way-part-2-ba4b6c82a922) 
+- [gajus/usus: Webpage pre-rendering service. ⚡️](https://github.com/gajus/usus) 
