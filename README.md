@@ -154,3 +154,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Open Source Software Testing | Sauce Labs](https://saucelabs.com/open-source) 
 - [How to get published in the freeCodeCamp Medium publication](https://medium.freecodecamp.org/how-to-get-published-in-the-freecodecamp-medium-publication-9b342a22400e) 
 - [Write Better Headlines: Free Headline Analyzer From CoSchedule](https://coschedule.com/headline-analyzer) 
+- [A Beginner’s Guide to Progressive Web Apps & the Frontend Web](https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35) 
