@@ -153,3 +153,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Inferno (infernojs) - Libraries.io](https://libraries.io/github/infernojs) 
 - [Open Source Software Testing | Sauce Labs](https://saucelabs.com/open-source) 
 - [How to get published in the freeCodeCamp Medium publication](https://medium.freecodecamp.org/how-to-get-published-in-the-freecodecamp-medium-publication-9b342a22400e) 
+- [Write Better Headlines: Free Headline Analyzer From CoSchedule](https://coschedule.com/headline-analyzer) 
