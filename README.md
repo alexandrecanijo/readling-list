@@ -142,3 +142,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Inferno](https://infernojs.org/docs/guides/brunch) 
 - [Svelte • The magical disappearing UI framework](https://svelte.technology/) 
 - [eBay skin](https://ebay.github.io/skin/#) 
+- [Introduction - Mithril.js](https://mithril.js.org/) 
