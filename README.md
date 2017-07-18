@@ -132,3 +132,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [React on the Server for Beginners: Build a Universal React and Node App ― Scotch](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app) 
 - [reactjs/react-php-v8js: PHP library that renders React components on the server](https://github.com/reactjs/react-php-v8js) 
 - [How to Load Your React Application Twice as Fast With Isomorphic Application - Theodo](https://www.theodo.fr/blog/2017/02/how-to-load-your-react-applicatoin-twice-as-fast-with-isomorphic-application/) 
+- [clement-escolano/isomorphic-react-with-php: This is a simple example of an Isomorphic React application with PHP](https://github.com/clement-escolano/isomorphic-react-with-php) 
