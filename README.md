@@ -135,3 +135,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [clement-escolano/isomorphic-react-with-php: This is a simple example of an Isomorphic React application with PHP](https://github.com/clement-escolano/isomorphic-react-with-php) 
 - [AngularJS SEO with PHP · Luis Melo](http://luisfbmelo.com/blog/2015/12/04/angularjs-seo-with-php/) 
 - [Single Page Apps with jQuery Routing - Coder Example](https://coderexample.com/single-page-apps-jquery-routing/) 
+- [Integrating React.js Into a PHP Application](https://pt.slideshare.net/andrewrota/integrating-reactjs-into-a-php-application) 
