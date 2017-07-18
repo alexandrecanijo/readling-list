@@ -151,3 +151,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Marko? Marko! #2: Components, Electron – Dylan Avery – Medium](https://medium.com/@dylanavery720/marko-marko-2-components-electron-32b4294fe045) 
 - [Marko? Marko! #1: MarkoJS – Dylan Avery – Medium](https://medium.com/@dylanavery720/marko-marko-1-markojs-bcd6528af2f9) 
 - [Inferno (infernojs) - Libraries.io](https://libraries.io/github/infernojs) 
+- [Open Source Software Testing | Sauce Labs](https://saucelabs.com/open-source) 
