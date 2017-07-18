@@ -134,3 +134,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [How to Load Your React Application Twice as Fast With Isomorphic Application - Theodo](https://www.theodo.fr/blog/2017/02/how-to-load-your-react-applicatoin-twice-as-fast-with-isomorphic-application/) 
 - [clement-escolano/isomorphic-react-with-php: This is a simple example of an Isomorphic React application with PHP](https://github.com/clement-escolano/isomorphic-react-with-php) 
 - [AngularJS SEO with PHP · Luis Melo](http://luisfbmelo.com/blog/2015/12/04/angularjs-seo-with-php/) 
+- [Single Page Apps with jQuery Routing - Coder Example](https://coderexample.com/single-page-apps-jquery-routing/) 
