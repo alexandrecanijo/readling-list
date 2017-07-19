@@ -181,3 +181,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Codemods: A Quick and Easy Way to Automate Code Refactoring — SitePoint](https://www.sitepoint.com/getting-started-with-codemods/) 
 - [Kubernetes: An Introduction to Deploying a Node.js Docker App — SitePoint](https://www.sitepoint.com/kubernetes-deploy-node-js-docker-app/) 
 - [A Beginner's Guide to Testing Functional JavaScript — SitePoint](https://www.sitepoint.com/testing-functional-javascript/) 
+- [How to Build a Real-Time GitHub Issue To-Do List with CanJS — SitePoint](https://www.sitepoint.com/real-time-github-issue-list-canjs/) 
