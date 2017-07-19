@@ -177,3 +177,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Social Login for Your SPA: Authenticate Your Users via Google and Facebook](https://www.sitepoint.com/spa-social-login-google-facebook/) 
 - [The MVC Design Pattern in Vanilla JavaScript — SitePoint](https://www.sitepoint.com/mvc-design-pattern-javascript/) 
 - [A Practical Guide to Planning a MEAN Stack Application — SitePoint](https://www.sitepoint.com/planning-mean-stack-application/) 
+- [Using MySQL with Node.js & the mysql JavaScript Client — SitePoint](https://www.sitepoint.com/using-node-mysql-javascript-client/) 
