@@ -174,3 +174,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Installing | Apollo Tools Guide](http://dev.apollodata.com/tools/graphql-server/index.html) 
 - [Vector](http://vectoross.io/) 
 - [The MVC Design Pattern in Vanilla JavaScript — SitePoint](https://www.sitepoint.com/mvc-design-pattern-javascript/) 
+- [Social Login for Your SPA: Authenticate Your Users via Google and Facebook](https://www.sitepoint.com/spa-social-login-google-facebook/) 
