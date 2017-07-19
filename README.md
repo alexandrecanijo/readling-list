@@ -178,3 +178,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [The MVC Design Pattern in Vanilla JavaScript — SitePoint](https://www.sitepoint.com/mvc-design-pattern-javascript/) 
 - [A Practical Guide to Planning a MEAN Stack Application — SitePoint](https://www.sitepoint.com/planning-mean-stack-application/) 
 - [Using MySQL with Node.js & the mysql JavaScript Client — SitePoint](https://www.sitepoint.com/using-node-mysql-javascript-client/) 
+- [Codemods: A Quick and Easy Way to Automate Code Refactoring — SitePoint](https://www.sitepoint.com/getting-started-with-codemods/) 
