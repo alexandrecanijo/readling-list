@@ -190,3 +190,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [AngularJS, Meteor, Backbone, express or Plain NodeJS? when to Use Each?](https://medium.com/@webhonchozitservices/angularjs-meteor-backbone-express-or-plain-nodejs-when-to-use-each-c0ae9d81ad43) 
 - [Install a Mobile Product Catalog App in 3 Steps – Hacker Noon](https://hackernoon.com/install-a-mobile-product-catalog-app-in-3-steps-419b6bd06c84) 
 - [Customizable Gallery Lightbox Component For Angular Material](http://jquerypluginplus.com/angularjs/customizable-gallery-lightbox-component-angular-material/) 
+- [Vue.js Feed | Revue](https://www.getrevue.co/profile/vuejs-news) 
