@@ -184,3 +184,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [How to Build a Real-Time GitHub Issue To-Do List with CanJS — SitePoint](https://www.sitepoint.com/real-time-github-issue-list-canjs/) 
 - [Introduction to FuseBox — a Faster, Simpler Webpack Alternative — SitePoint](https://www.sitepoint.com/fusebox-faster-webpack-alternative/) 
 - [A Beginner’s Guide to npm — the Node Package Manager — SitePoint](https://www.sitepoint.com/beginners-guide-node-package-manager/) 
+
+### July 23, 2017 
+- [Build Amazing Native Apps and Progressive Web Apps with Ionic Framework and Angular](http://ionicframework.com/) 
