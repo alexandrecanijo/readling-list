@@ -193,3 +193,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 - [Vue.js Feed | Revue](https://www.getrevue.co/profile/vuejs-news) 
 - [GitLab was at VueConf 2017! | GitLab](https://about.gitlab.com/2017/06/29/gitlab-at-vue-conf/) 
 - [vue_gitlab_talk](http://filipa.gitlab.io/vue_conf_2017/vue_gitlab_2017.pdf) 
+
+### October 17, 2017 
+- [How to better organize your React applications? – Alexis Mangin – Medium](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) 
