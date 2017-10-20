@@ -199,3 +199,4 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 
 ### October 20, 2017 
 - [Introducing PayPal’s open-source cross-domain javascript suite](https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d) 
+- [Prettier + Stylelint: Writing Very Clean CSS (Or, Keeping Clean Code is a Two-Tool Game) | CSS-Tricks](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/?utm_campaign=Alligator.io&utm_medium=email&utm_source=Alligator.io_38) 
