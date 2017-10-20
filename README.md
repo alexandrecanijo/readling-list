@@ -196,3 +196,6 @@ The links are collected by this chrome extension created by [Idnan](https://gith
 
 ### October 17, 2017 
 - [How to better organize your React applications? – Alexis Mangin – Medium](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) 
+
+### October 20, 2017 
+- [Introducing PayPal’s open-source cross-domain javascript suite](https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d) 
